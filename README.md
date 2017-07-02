@@ -3,12 +3,12 @@ Javascript client for send sms via moozisms platform
 
 >Before using this sdk ensure you have your API keys and acces Token else you can get it at moozisms.com/dashboard
 
-###INSTALL MODULE
+### INSTALL MODULE
 ```javascript
    npm install moozisms-js
 ```
 
-###USAGE
+### USAGE
 ```javascript
     var moozi = require('moozisms-js')
 
@@ -17,4 +17,4 @@ Javascript client for send sms via moozisms platform
     sender.send(/*Sender Alphanumeric ID*/,/*Receiver phone Number*/,/*Message Body*/);
 ```
 
-####Enjoy your code
+#### Enjoy your code
