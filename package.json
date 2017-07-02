@@ -1,0 +1,26 @@
+{
+  "name": "moozisms-js",
+  "version": "1.0.0",
+  "description": "Javascript client for send sms via moozisms platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeckmc/MOOZISMS-JAVASCRIPT_SDK.git"
+  },
+  "keywords": [
+    "moozisms",
+    "sms",
+    "craftsman",
+    "nodejs",
+    "sdk"
+  ],
+  "author": "Shadaï ALI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeckmc/MOOZISMS-JAVASCRIPT_SDK/issues"
+  },
+  "homepage": "https://github.com/geeckmc/MOOZISMS-JAVASCRIPT_SDK#readme"
+}
